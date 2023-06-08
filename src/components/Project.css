@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css?family=Poppins");
+
+.project-container {
+  width: 600px;
+  height: 300px;
+  margin: 10px;
+  background: white;
+  border-radius: 10px;
+  box-shadow: 0px 20px 50px #d9dbdf;
+}
+
+.project-title {
+  margin: auto;
+  padding-left: 24px;
+  padding-top: 24px;
+  font-family: "Poppins";
+  font-size: 22px;
+}
+
+.project-date {
+  text-align: justify;
+  padding-left: 24px;
+  padding-right: 24px;
+  font-family: "Poppins";
+  font-size: 12px;
+  color: #c9c9c9;
+}
+
+.project-content {
+  text-align: justify;
+  padding-left: 24px;
+  padding-right: 24px;
+  font-family: "Poppins";
+  font-size: 12px;
+  color: #8a8a8a;
+}
